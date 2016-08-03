@@ -1,2 +1,1 @@
-# whonut.github.io
-My GitHub Pages site.
+My GitHub pages website.

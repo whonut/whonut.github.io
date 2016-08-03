@@ -1,0 +1,50 @@
+# Site settings
+title:       Physicynicism
+author:      Dylan Evans
+description: >
+  "Personal website of Dylan Evans, Mathematics and Physics student,
+   wheelchair basketball player and occasional programmer."
+baseurl:     ""
+url:         "http://www.physicynicism.com"
+date_format: "%Y-%m-%d"
+
+# Optional features
+animated:             true
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    true
+enable_mathjax: true
+extended_fonts: false
+enable_anchorjs: false
+
+# Social icons
+github_username: whonut
+stackoverflow_id: 1485047
+twitter_username: physicynicism
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+  index:
+    coming_soon: 'Coming soon...'
+  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  og_locale: 'en_US'
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     4
+sass:
+  compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
