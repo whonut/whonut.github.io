@@ -19,8 +19,8 @@ enable_anchorjs: false
 
 # Social icons
 github_username: whonut
-stackoverflow_id: 1485047
 twitter_username: physicynicism
+tumblr_url: physicynicism
 
 text:
   pagination:
