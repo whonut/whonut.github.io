@@ -5,8 +5,6 @@ permalink: /about/
 tags: about
 ---
 
-# About Me
-
 ![Me](/images/me.jpg){:width="250px" style="float: left; margin-right: 1em; margin-bottom: 1em;"}
 
 My name's Dylan Evans. I'm a university student from the UK studying
