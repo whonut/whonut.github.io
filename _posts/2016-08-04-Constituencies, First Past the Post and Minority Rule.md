@@ -4,7 +4,7 @@ title: Constituencies, First-Past-the-Post and Minority Rule
 tags: voting
 ---
 
-The other day, I rewatched CGP Grey's [excellent videos](https://www.youtube.com/playlist?list=PL9936C719FF689E7D) about the Electoral College. In
+The other day, I re watched CGP Grey's [excellent videos](https://www.youtube.com/playlist?list=PL9936C719FF689E7D) about the Electoral College. In
 [one video](https://youtu.be/7wC42HgLA4k?list=PL9936C719FF689E7D&t=259), Grey shows how it is possible to become President with only about
 23% of the popular vote. The UK's constituency-based system shares some key features with the Electoral College, so I wondered whether a similar
 feat might be possible here. A quick search for data and a few lines of code later, I had my answer.
@@ -24,9 +24,9 @@ In order to gain control of the Government (without coalition), a party must win
 | **Assuming 100% turnout**               | 10,646,336                                  | 22.97                    |
 | **Using 2015 General Election turnout** | 6,791,227                                   | 14.65                    |
 
- This compaign strategy is not a realistic one, but the fact that it is even *possible* to win a two-party election with such a small proportion of the votes is
+ This campaign strategy is not a realistic one, but the fact that it is even *possible* to win a two-party election with such a small proportion of the votes is
  worrying. If we add realism by removing the two-party restriction then things can only get worse, since first-past-the-post then allows for seats to be won with less than 50% of the votes. The 
- [issues with first-past-the-post](http://www.electoral-reform.org.uk/first-past-the-post) itself are beyond the scope of this post. It's worth noting that even with equalised constituencies, a similar foxus on just barely winning 326 seats could get a party into power with 25% of the popular vote. The big problem with *unequal* constitutuencies, then, is that it makes some votes matter 
+ [issues with first-past-the-post](http://www.electoral-reform.org.uk/first-past-the-post) itself are beyond the scope of this post. It's worth noting that even with equalised constituencies, a similar focus on just barely winning 326 seats could get a party into power with 25% of the popular vote. The big problem with *unequal* constituencies, then, is that it makes some votes matter 
  less than others. 
 
  There you have it. The vast range of constituency sizes makes it theoretically possible to win a majority of parliamentary seats with a shockingly small percentage of the popular vote. It also means that voters in larger constituencies have less of a say in our elections than those in small ones. For those of us who care about the representativeness of our democracy, it is therefore tempting to demand perfect equalisation. We must be careful though. Constituencies are about more than electorate size, so we can't just go chopping and changing them willy-nilly. For more about constituency boundary reform, see the [Electoral Reform Society website](http://www.electoral-reform.org.uk/boundary-reform).
