@@ -19,7 +19,7 @@ it still works on Python 2.7 and 3.x, and I'm quite proud of it.
 #### Random Table Roller
 
 Random Table Roller is a simple graphical program for rolling against random tables used in many tabletop RPGs. It accepts tables in a
-simple CSV format and allows the user to load many tables upfront and switcg between then easily.
+simple CSV format and allows the user to load many tables upfront and switch between then easily.
 
 - [Github](https://github.com/whonut/Random-Table-Roller)
 
