@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Constituencies, First-Past-the-Post and Minority Rule
+category: Long-form
 tags: voting
 ---
 
