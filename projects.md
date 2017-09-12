@@ -27,9 +27,9 @@ simple CSV format and allows the user to load many tables upfront and switch bet
 
 #### Webcomic tumblogs
 
-I maintain automated Tumblr blogs which post new strips from the xkcd and Depressed Alien webcomics. The code is written in Python 2.7 and
-runs on a Google App Engine instance. A rewrite may occur when GAE adds stable Python 3 support.
+I maintain automated Tumblr blogs which post new strips from the xkcd and Depressed Alien webcomics. They used to run on code written in Python 2.7 and
+hosted on a Google App Engine. The Depressed Alien blog is now defunct and the xkcd blog is currently updated using [Huginn](https://github.com/huginn/huginn).
 
-- [GitHub](https://github.com/whonut/Webcomic-tumblogs/)
+- [Old GitHub repository](https://github.com/whonut/Webcomic-tumblogs/)
 - [xkcds.tumblr.com](http://xkcds.tumblr.com)
 - [depressedaliencomic.tumblr.com](http://depressedaliencomic.tumblr.com)
