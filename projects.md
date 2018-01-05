@@ -40,7 +40,7 @@ These are accessible via my GitHub profile but collected here for neatness.
 
 #### Fuzzy Clock BitBar plugin
 
-I contributed a small 'word clock' script to the [BitBar](https://getbitbar.com) which displays the time in words to the nearest
+I contributed a small 'word clock' script to [BitBar](https://getbitbar.com), which displays the time in words to the nearest
 five minutes. I also created a Swedish version of this for a friend.
 
 - [English version](https://getbitbar.com/plugins/Time/fuzzyclock.1s.py)
