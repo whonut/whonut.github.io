@@ -48,7 +48,7 @@ five minutes. I also created a Swedish version of this for a friend.
 
 #### Sopel IRC bot enhancements
 
-I added several features to the Sopel IRC bot's Reddit integration
+I added several features to the Sopel IRC bot's Reddit integration.
 
 - [Pull request](https://github.com/sopel-irc/sopel/pull/775)
 
