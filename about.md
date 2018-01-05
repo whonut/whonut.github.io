@@ -9,5 +9,5 @@ tags: about
 
 My name's Dylan Evans. I'm a university student from the UK studying
 Mathematics and Physics. I enjoy programming, wheelchair basketball,
-Dungeons and Dragons and any mixture of those things I can get away with.
+Dungeons and Dragons, and any mixture of those things I can get away with.
 I also have cerebral palsy.
