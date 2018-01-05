@@ -36,7 +36,7 @@ instance running on a VPS.
 
 ### Open Source Contributions
 
-These are accessible via my GitHub profile but collected hear for neatness.
+These are accessible via my GitHub profile but collected here for neatness.
 
 #### Fuzzy Clock BitBar plugin
 
