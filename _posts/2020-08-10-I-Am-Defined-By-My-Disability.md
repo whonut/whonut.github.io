@@ -23,7 +23,7 @@ I don't wish this post to come off as combative, although I may stray into sharp
 
 Phrases like 'differently abled' are examples of what I've come to call *empowerment by denial*. Language like this seeks to elevate people beyond disability by simply denying its existence. Instead of challenging society to treat disabled people properly, it seeks to convince society that we're not really disabled after all. At best, it's erasure. At worst, it ties better treatment to the ability to 'perform abledness'.
 
-# Not sufficient, but necessary
+## Not sufficient, but necessary
 
 Perhaps this all seems like a stretch. In the past few years, I've struggled with that same thought. My own experience has solidified my opinion though. I don't understand the apparent taboo around accepting limitation. I spent years trying to be like everyone else, trying to be anything but disabled, and I am *fucking exhausted*. Quite frankly, I don't want to do that any more. ***I shouldn't have to do that any more***. Anything that perpetuates the opposite idea is not going to fly with me.
 
