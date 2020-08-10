@@ -2,10 +2,10 @@
 title:       Physicynicism
 author:      Dylan Evans
 description: >
-  "Personal website of Dylan Evans, Mathematics and Physics student,
+  "Personal website of Dylan Evans, Mathematics and Physics nerd,
    wheelchair basketball player and occasional programmer."
 baseurl:     ""
-url:         "http://www.physicynicism.com"
+url:         "https://whonut.github.io"
 date_format: "%Y-%m-%d"
 
 # Optional features
